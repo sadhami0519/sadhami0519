@@ -5,11 +5,12 @@
 ### 👧🏼 About Me
 - 🐰 **Full Name**: Amirth Sadhakshi M.
 - 💻 **Career Focus**: Data Science & Machine Learning.
-- 🎮 **Interests**: Part-time Game Development — I love creating imaginative worlds and interactive experiences.
+- 🎮 **Interests**: Part-time Game Development, Quantum Computing, Edge Computing, and AR/VR systems. 
 - 🤝 **Collaboration**: Always excited to collaborate with others on cool projects!  
 
 ### 🌱 What I’m Learning
-- 📊 Mastering **ML algorithms** and diving deeper into Data Science.  
+- 📈 Building **Data Projects** to improve my Business Intelligence and Performance Optimization skills. 
+- 📊 Mastering **ML algorithms** and diving deeper into Data Science.
 - 🧠 Sharpening my **DSA skills** with Python to build efficient, scalable solutions.  
 
 ### 📫 How to Reach Me
