@@ -11,7 +11,7 @@
 
 --> 🤝 **Collaboration**: Always excited to collaborate with others on cool projects!
 
---> ⌛ **Adaptability**: I am a quick learner and I thrive in a fast-paced environment, TRY ME.
+--> ⌛ **Adaptability**: I am a quick learner and I thrive in a fast-paced environment!
 
 ### 🌱 What I’m Learning
 --> 📈 Building **Data Projects** to improve my Business Intelligence and Performance Optimization skills. 
