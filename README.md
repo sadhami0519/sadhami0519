@@ -20,14 +20,6 @@ Alongside programming projects, I'm also a leader of a self-growth club on campu
 
 ---
 
-### 🌱 What I’m Learning
---> 📈 Building **Data Projects** to improve my Business Intelligence and Performance Optimization skills  
---> 📊 Mastering **ML algorithms** and **Learning the ML Math**  
---> 📈 Working on **AI Projects** while adapting to modern tech and simultaneously strengthening my fundamentals  
---> 🧠 Sharpening my **Data Structures and Algorithms skills** with C++ and Python to build effective solutions
-
----
-
 ### 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/amisadha-m/)  
