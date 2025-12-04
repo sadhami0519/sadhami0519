@@ -1,11 +1,11 @@
-## 🐰 Hi, I’m Sakshi!
+## 🐰 Hello, I’m Sakshi. 
 
 ### 👧 About Me
-Hi there! Myself **Sakshi** 🌟, pursuing my **MCA (Class of 2027)** at SRM-IST, Trichy. I'm passionate about **Machine Learning and Developments in Quantum Computing**, with solid fundamental ML, AI skills and active participation in the research community.
+Currently pursuing my a *Masters in Computer Applications* (Class of '27) at SRM-IST, Trichy. I'm interested and am actively working in projects on **Machine Learning and Developments in Quantum Computing**, with solid fundamental ML, AI, programming skills and active participation in the research community. I am working on C mini-projects at the moment. 
 
-I enjoy **analyzing data, building predictive models, optimizing workflows, and creating visual insights** to solve real-world problems. I explore technology through **research papers, tech podcasts, and lectures** from MIT OCW, 3Blue1Brown, Veritasium, and Fireship, and actively engage with tech communities via **webinars and workshops** to stay updated on the latest trends.  
+I enjoy **analyzing data, building predictive models, and creating visual insights** to comprehend complex data better. My other interests lie in the domains of neuroscience, psychology and bioinformatics which I hope to extensively contribute to with my improving technical prowess. 
 
-Alongside technical projects, I'm developing **communication and leadership skills** through public speaking. I thrive in **collaborative, ambitious environments** and welcome connections with professionals in **emerging tech, data, and business**. Always open to conversations and opportunities! 🌟😸
+Alongside programming projects, I'm also a leader of a self-growth club on campus and am an active event planner and organizer. I enjoy communicating with people and optimizing plans with their feedback. Feel free to reach out for collaborations!🌟😸
 
 
 
