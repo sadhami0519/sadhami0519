@@ -1,6 +1,6 @@
-## 🐰 Hello, I’m Sakshi. 
+## Hello, I’m Sakshi. :)
 
-### 👧 About Me
+### About Me
 Currently pursuing my a *Masters in Computer Applications* (Class of '27) at SRM-IST, Trichy. I'm interested and am actively working in projects on **Machine Learning and Developments in Quantum Computing**, with solid fundamental ML, AI, programming skills and active participation in the research community. I am working on C mini-projects at the moment. 
 
 I enjoy **analyzing data, building predictive models, and creating visual insights** to comprehend complex data better. My other interests lie in the domains of neuroscience, psychology and bioinformatics which I hope to extensively contribute to with my improving technical prowess. 
