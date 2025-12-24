@@ -1,7 +1,7 @@
 ## Hello, I’m Sakshi. :)
 
 ### About Me
-Currently pursuing my *Masters in Computer Applications* (Class of '27) at SRM-IST, Trichy. I'm interested in projects on global welfare, Machine Learning and Quantum Computing. Quantum Computing is the subject that has piqued my interest of recent and I hope to explore the same more. I am an active participated of WorldQuant University's Applied DS Lab - Completed 2 out of 8 projects in total so far and learned to build fundamental LR models, data cleaning, data preprocessing, visualizing and evaluating model performance. 
+Currently pursuing my *Masters in Computer Applications* (Class of '27) at SRM-IST, Trichy. I'm interested in projects on global welfare, Machine Learning and Quantum Computing. Quantum Computing is the subject that has piqued my interest of recent and I hope to explore the same more. I am an active participant of WorldQuant University's Applied DS Lab - Completed 2 out of 8 projects in total so far and learned to build fundamental LR models, data cleaning, data preprocessing, visualizing and evaluating model performance. 
 
 My other interests lie in the domains of neuroscience, mathematics, physics, psychology and bioinformatics which I hope to extensively contribute to in the future. 
 
