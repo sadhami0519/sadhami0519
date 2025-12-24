@@ -1,11 +1,11 @@
 ## Hello, I’m Sakshi. :)
 
 ### About Me
-Currently pursuing my a *Masters in Computer Applications* (Class of '27) at SRM-IST, Trichy. I'm interested and am actively working in projects on **Machine Learning and Developments in Quantum Computing**, with solid fundamental ML, AI, programming skills and active participation in the research community. I am working on C mini-projects at the moment. 
+Currently pursuing my *Masters in Computer Applications* (Class of '27) at SRM-IST, Trichy. I'm interested in projects on global welfare, Machine Learning and Quantum Computing. Quantum Computing is the subject that has piqued my interest of recent and I hope to explore the same more. I am an active participated of WorldQuant University's Applied DS Lab - Completed 2 out of 8 projects in total so far and learned to build fundamental LR models, data cleaning, data preprocessing, visualizing and evaluating model performance. 
 
-I enjoy **analyzing data, building predictive models, and creating visual insights** to comprehend complex data better. My other interests lie in the domains of neuroscience, psychology and bioinformatics which I hope to extensively contribute to with my improving technical prowess. 
+My other interests lie in the domains of neuroscience, mathematics, physics, psychology and bioinformatics which I hope to extensively contribute to in the future. 
 
-Alongside programming projects, I'm also a leader of a self-growth club on campus and am an active event planner and organizer. I enjoy communicating with people and optimizing plans with their feedback. Feel free to reach out for collaborations!🌟😸
+Alongside programming projects, I'm also a leader of a self-growth club on campus [EQurated4U]. Our vision is cultivating a positive environment that ultimately leads to long-term personal and career success for our members and participants and we aim to achieve that through regular events being conducted on campus that focus on short-term habit accumulations and overcoming difficult hurdles by correcting subtle subconscious influence. Reach out for queries, opportunities and collaborations, I'm 90-100% likely to accept and participate with high enthusiasm!
 
 
 
