@@ -7,12 +7,6 @@ My other interests lie in the domains of neuroscience, mathematics, physics, psy
 
 Alongside programming projects, I'm also leading a self-growth club on campus [EQurated4U]. Our vision is cultivating a positive environment that ultimately leads to long-term personal and career success for our members and participants and we aim to achieve that through regular events being conducted on campus that focus on short-term habit accumulations and overcoming difficult hurdles by correcting subtle subconscious influence. 
 
-Our first event, the **75-days consistency challenge**, garnered 30+ enthusiastic participants after a short-term online promotion. 
-
-1. We collected updates on their habit completion through google forms.
-2. We conducted regular Activity-of-the-day(s) with themes and quotes to enhance and keep spirits high and curious. 
-3. By the end of December 2025, virtual activities were conducted to motivate the individual for 2026 with a 2025 Brain dump, 2026 Resolutions and Vision Board.
-
 Reach out for queries, opportunities and collaborations, I'm 90-100% likely to accept and participate with high enthusiasm!
 
 
