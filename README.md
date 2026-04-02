@@ -7,7 +7,7 @@ My other interests lie in the domains of neuroscience, mathematics, physics, psy
 
 Alongside programming projects, I'm also leading a self-growth club on campus [EQurated4U]. Our vision is cultivating a positive environment that ultimately leads to long-term personal and career success for our members and participants and we aim to achieve that through regular events being conducted on campus that focus on short-term habit accumulations and overcoming difficult hurdles by correcting subtle subconscious influence. 
 
-Reach out for queries, opportunities and collaborations, I'm 90-100% likely to accept and participate with high enthusiasm!
+Reach out for queries, opportunities and collaborations. I'd be happy to accept and participate with high enthusiasm!
 
 
 
